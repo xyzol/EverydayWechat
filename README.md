@@ -8,6 +8,7 @@
 **本项目依赖于网页版微信进行开发，如登录不了，则无法使用此项目；且无任何解决办法。**    
 **本项目依赖于网页版微信进行开发，如登录不了，则无法使用此项目；且无任何解决办法。**    
 网页版微信地址：<https://wx.qq.com/>。  
+**登录不上可以参考：https://wechaty.js.org/2021/04/13/wechaty-uos-web/**
 
 在北京地区求一份 Python & Android 的工作岗位。  
 加微信：[地址](https://raw.githubusercontent.com/sfyc23/image/master/vlog/20190614125724.png)。
